@@ -4,7 +4,7 @@
   hey there.. i'm Diki Setiawan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h4 align="center"> PHP Developer (Codeigniter)</h4>
+<h4 align="center"> PHP Developer (Codeigniter, Laravel)</h4>
 
 <div align="center">
   <image src="https://media.giphy.com/media/Vnk8f29XU6GSZK8uGJ/giphy.gif">">
